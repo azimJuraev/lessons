@@ -12,7 +12,7 @@ const leftBorderWidth = '5px';
 
 console.log(`Ширына контента ${num} граница ${leftBorderWidth}`);
 
-let number = 50;
+let number = 80;
 console.log(number);
 
 
